@@ -1,3 +1,8 @@
+# Your First Function - A built-in to python function
+#
+# print('hello world')
+#
+# # Comments in python use a '#'
 
 # FUNCTIONS
 
